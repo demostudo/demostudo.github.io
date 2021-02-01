@@ -1,0 +1,308 @@
+[
+    {
+        "$": "RemoteFile",
+        "uid": "ed71b8e9-d11c-4d26-a6d1-976dc43c01f5",
+        "path": "/Física",
+        "name": "Optica",
+        "getUrl": "https://demostudo.github.io/storage/files/F%C3%ADsica/Optica.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "e9b9c570-dd60-4d2c-a68d-a1859e4e44c9",
+        "path": "/Física",
+        "name": "MRUV",
+        "getUrl": "https://demostudo.github.io/storage/files/F%C3%ADsica/MRUV.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "65209186-9b90-446c-9820-d426b02e8396",
+        "path": "/Geografia",
+        "name": "Neocolonialismo",
+        "getUrl": "https://demostudo.github.io/storage/files/Geografia/Neocolonialismo.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "c6790d29-5089-492b-ba73-74ffb54bd9f9",
+        "path": "/Geografia",
+        "name": "Noções de Cartografia",
+        "getUrl": "https://demostudo.github.io/storage/files/Geografia/No%C3%A7%C3%B5es%20de%20Cartografia.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "a64ce8b7-e03d-475c-998d-f22594bf8c5d",
+        "path": "/Geografia",
+        "name": "Biomas Brasileiros",
+        "getUrl": "https://demostudo.github.io/storage/files/Geografia/Biomas%20Brasileiros.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "3a9f79bb-0d5b-4622-9955-6574c9fc00df",
+        "path": "/Algebra",
+        "name": "Revisão Progressão Geométrica",
+        "getUrl": "https://demostudo.github.io/storage/files/Algebra/Revis%C3%A3o%20Progress%C3%A3o%20Geom%C3%A9trica.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "286bee99-dc00-4fac-b8a3-114b7a724da7",
+        "path": "/Algebra",
+        "name": "MMC e MDC",
+        "getUrl": "https://demostudo.github.io/storage/files/Algebra/MMC%20e%20MDC.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "f1a6acc9-d1e9-4a78-a80b-e4425c0d9f3e",
+        "path": "/Algebra",
+        "name": "Operações Fundamentais",
+        "getUrl": "https://demostudo.github.io/storage/files/Algebra/Operac%CC%A7%C3%B5es%20Fundamentais.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "32ba9135-7a66-47b3-846a-6c9618693cf5",
+        "path": "/Algebra",
+        "name": "Produtos Notáveis",
+        "getUrl": "https://demostudo.github.io/storage/files/Algebra/Produtos%20Not%C3%A1veis.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "06bff37f-9bec-4b1b-9da7-3d384b69249d",
+        "path": "/Química",
+        "name": "Isomeria",
+        "getUrl": "https://demostudo.github.io/storage/files/Qu%C3%ADmica/Isomeria.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "a1ddbf71-04e5-4214-94af-701143723f77",
+        "path": "/Química",
+        "name": "Propriedades organolépticas",
+        "getUrl": "https://demostudo.github.io/storage/files/Qu%C3%ADmica/Propriedades%20organol%C3%A9pticas.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "959e7aec-4ab4-478b-bdde-732a0a5a0ad8",
+        "path": "/Química",
+        "name": "Equilíbrio Iônico em soluções aquosas",
+        "getUrl": "https://demostudo.github.io/storage/files/Qu%C3%ADmica/Equil%C3%ADbrio%20I%C3%B4nico%20em%20solu%C3%A7%C3%B5es%20aquosas.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "67a28c4e-5b89-4126-a480-ea1a5204db49",
+        "path": "/Química",
+        "name": "Leis de Lavoisier e Proust",
+        "getUrl": "https://demostudo.github.io/storage/files/Qu%C3%ADmica/Leis%20de%20Lavoisier%20e%20Proust.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "b0b30710-be9b-480e-9afa-e8606bff13c0",
+        "path": "/Historia",
+        "name": "Expansão Marítima",
+        "getUrl": "https://demostudo.github.io/storage/files/Historia/Expans%C3%A3o%20Mar%C3%ADtima.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "bd451757-eae1-4cc0-af2e-6825caf91e60",
+        "path": "/Historia",
+        "name": "Absolutismo",
+        "getUrl": "https://demostudo.github.io/storage/files/Historia/Absolutismo.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "c7519b8c-357e-4209-b3b9-e6167fc3d4f2",
+        "path": "/Historia",
+        "name": "Segunda Guerra Mundial",
+        "getUrl": "https://demostudo.github.io/storage/files/Historia/Segunda%20Guerra%20Mundial.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "49222aea-f7b1-4bf5-b757-cb617bdca177",
+        "path": "/Historia",
+        "name": "Mercantilismo",
+        "getUrl": "https://demostudo.github.io/storage/files/Historia/Mercantilismo.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "f759eaed-9596-43a5-96e2-c011c56703f7",
+        "path": "/Biologia",
+        "name": "Tecido Conjuntivo I",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Tecido%20Conjuntivo%20I.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "cf4e1c5a-2e3e-4fc1-be5d-bfefc0e6089a",
+        "path": "/Biologia",
+        "name": "Tecidos Epiteliais",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Tecidos%20Epiteliais.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "e2176fde-ffe4-4333-977d-d2d1574694e2",
+        "path": "/Biologia",
+        "name": "Ciclos Biogeoquímicos 2",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Ciclos%20Biogeoqu%C3%ADmicos%202.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "9c9abef2-efb6-4a64-91ec-76c4bf7a9185",
+        "path": "/Biologia",
+        "name": "Genética II",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Gen%C3%A9tica%20II.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "34c78a7e-c77d-48fa-be13-c82577230c03",
+        "path": "/Biologia",
+        "name": "Cadeias e Teias Alimentares",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Cadeias%20e%20Teias%20Alimentares.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "da56e9ac-e4c6-4c49-8ca5-1cebe9f40101",
+        "path": "/Biologia",
+        "name": "Genética I",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Gen%C3%A9tica%20I.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "907be60a-7997-47f0-85d0-534c5eaf2cd0",
+        "path": "/Biologia",
+        "name": "Relações Ecológicas",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Rela%C3%A7%C3%B5es%20Ecol%C3%B3gicas.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "6741586e-4e01-4840-b271-c01ecf9b5d76",
+        "path": "/Biologia",
+        "name": "Tecido Nervoso",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Tecido%20Nervoso.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "67d639e9-b531-4548-8057-295289e51919",
+        "path": "/Biologia",
+        "name": "Genética III",
+        "getUrl": "https://demostudo.github.io/storage/files/Biologia/Gen%C3%A9tica%20III.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "917ba7be-ba5c-4a38-9804-73230b53b3eb",
+        "path": "/Língua Portuguesa",
+        "name": "Funções da Linguagem",
+        "getUrl": "https://demostudo.github.io/storage/files/L%C3%ADngua%20Portuguesa/Fun%C3%A7%C3%B5es%20da%20Linguagem.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "72bf09db-cb38-4a94-b22f-57d831c3d348",
+        "path": "/Língua Portuguesa",
+        "name": "Pontuação ",
+        "getUrl": "https://demostudo.github.io/storage/files/L%C3%ADngua%20Portuguesa/Pontua%C3%A7%C3%A3o%20.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "116f1a06-6c38-42aa-bf33-31fee70556bc",
+        "path": "/Trigonometria",
+        "name": "Funções trigonométricas",
+        "getUrl": "https://demostudo.github.io/storage/files/Trigonometria/Fun%C3%A7%C3%B5es%20trigonom%C3%A9tricas.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "bc94341a-b722-4f81-999a-e5e28682289a",
+        "path": "/Língua Inglesa",
+        "name": "Linkin Words",
+        "getUrl": "https://demostudo.github.io/storage/files/L%C3%ADngua%20Inglesa/Linkin%20Words.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "7641185d-8b41-4f88-a3f3-2404d5a2f773",
+        "path": "/Língua Inglesa",
+        "name": "Will and Going to",
+        "getUrl": "https://demostudo.github.io/storage/files/L%C3%ADngua%20Inglesa/Will%20and%20Going%20to.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "8013e3ce-fa9d-44ca-9ca5-cf4a343ec694",
+        "path": "/Literatura",
+        "name": "Realismo e Naturalismo",
+        "getUrl": "https://demostudo.github.io/storage/files/Literatura/Realismo%20e%20Naturalismo.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "a6c900d3-5d3e-48c3-a02b-7ed6af91bede",
+        "path": "/Literatura",
+        "name": "Parnasianismo",
+        "getUrl": "https://demostudo.github.io/storage/files/Literatura/Parnasianismo.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    },
+    {
+        "$": "RemoteFile",
+        "uid": "4e443614-fa45-4246-9d8e-cd1ee58511e3",
+        "path": "/Filosofia",
+        "name": "Estoicismo",
+        "getUrl": "https://demostudo.github.io/storage/files/Filosofia/Estoicismo.pdf",
+        "revision": "0",
+        "fileType": "pdf"
+    }
+]
